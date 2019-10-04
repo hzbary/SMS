@@ -1,1 +1,1 @@
-this is a salary management system based on php programming language
+This is a Salary Management System based on PHP programming language
